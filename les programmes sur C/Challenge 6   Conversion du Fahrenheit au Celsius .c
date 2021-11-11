@@ -6,9 +6,9 @@ int main()
 
 float fahrenheit, celsius;
 
-printf("ce programme de convertir la température Fahrenheit en Celsius :) \n");
 
-printf("la valeur en Fahrenheit : ");
+
+printf("entrer la valeur en Fahrenheit : ");
 scanf("%f", &fahrenheit);
 
 celsius = (fahrenheit - 32) / 1.8;
