@@ -29,6 +29,7 @@ int main() {
 		case 5:
 		    printf("sec=%d sec",x*12*30*24*60*60);
 			break;		
+			default : printf("aucun resultat");
 	}
 	return 0;
 }
